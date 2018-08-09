@@ -1,0 +1,35 @@
+{
+  "title": "Elegant Web Front End",
+  "description": "",
+  "language": "en",
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": [
+    "-lunr", "-search", "search-plus",
+    "github",
+    "editlink",
+    "splitter",
+    "codetabs",
+    "es6tabs",
+    "copy-code-button",
+    "anchor-navigation-ex"
+  ],
+  "links" : {
+    "sidebar" : {
+      "" : ""
+    }
+  },
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/MiGongOrg/Elegant-Web-Front-End"
+    },
+    "editlink": {
+      "base": "https://github.com/MiGongOrg/Elegant-Web-Front-End/blob/master",
+      "label": "Edit"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
+    }
+  }
+}
