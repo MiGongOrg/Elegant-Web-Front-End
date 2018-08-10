@@ -1,7 +1,9 @@
 {
   "title": "Elegant Web Front End",
   "description": "",
+  "author": "Ming",
   "language": "en",
+  "gitbook": "3.2.3",
   "styles": {
     "website": "styles/website.css"
   },
