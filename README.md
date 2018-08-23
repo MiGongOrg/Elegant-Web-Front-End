@@ -49,3 +49,5 @@ gitbook serve
   "language": "zh-hans"
 }
 ```
+
+> en, ar, bn, cs, de, en, es, fa, fi, fr, he, it, ja, ko, no, pl, pt, ro, ru, sv, uk, vi, zh-hans, zh-tw
