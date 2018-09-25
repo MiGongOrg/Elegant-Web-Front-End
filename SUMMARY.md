@@ -8,3 +8,4 @@
   * [Base](css/base.md)
 * [JavaScript](javascript/index.md)
   * [Base](javascript/base.md)
+  * [Advanced](javascript/advanced.md)

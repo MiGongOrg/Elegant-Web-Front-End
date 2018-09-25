@@ -63,7 +63,7 @@ gitbook build
 sh gitbook.sh '更新说明'
 ```
 
-脚本内容
+脚本内容（分步操作可以用脚本一次执行）
 
 ```sh
 git checkout master
@@ -76,4 +76,11 @@ git add .
 git commit -m $1
 git push -u origin gh-pages
 git checkout master
+```
+
+## 更新 gh-pages 分支
+
+```sh
+git checkout master -- _book/
+cp -r _book/* .
 ```
