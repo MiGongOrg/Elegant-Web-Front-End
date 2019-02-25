@@ -4,6 +4,22 @@ discription: You own style! 😎
 
 # Advanced
 
+## Empty An Array
+
+### Before
+
+```javascript
+var arr = [1,2,3,4,5];
+arr = [];
+```
+
+### After
+
+```javascript
+var arr = [1,2,3,4,5];
+arr.length = 0;
+```
+
 ## String To Array
 
 ### Before

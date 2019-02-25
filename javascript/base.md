@@ -74,15 +74,6 @@ console.log(sum(2)); // 4
 > This is ES 6 code, you can also see the ES 5 output
 
 {% es6 -%}
-let sum = (x) => { x + x }
-console.log(sum(2)); // 4
-{%- endes6 %}
-
-### Other
-
-> This is ES 6 code, you can also see the ES 5 output
-
-{% es6 -%}
 let sum = x => x + x
 console.log(sum(2)); // 4
 {%- endes6 %}
